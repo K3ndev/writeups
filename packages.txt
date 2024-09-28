@@ -1,0 +1,8 @@
+# container machine
+nano
+nmap
+curl
+iputils-ping
+
+# host machine
+openvpn
